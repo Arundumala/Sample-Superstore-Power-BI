@@ -1,4 +1,4 @@
-# sample-superstore-Power-Bi
+# sample-superstor-Dashboard
 # Power BI Sample Superstore Sales Dashboard
 
 This repository contains a **Power BI dashboard** analyzing the Sample Superstore sales data. The dashboard provides insights into sales performance, customer behavior, and regional trends.
